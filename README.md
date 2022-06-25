@@ -1,1 +1,1 @@
-# Magic_Notes
+# Magic-Notes
